@@ -47,7 +47,7 @@ Below is the behavioral simulation output of Shift-and-Add Multiplication of two
 ![Waveform](Waveform.png)
 
 ## Quick Start Guide
-Follow these steps to clone, simulate, and (optionally) synthesize the project
+Follow these steps to clone, simulate and synthesize the project
 
 ### 1. Clone the Repository
 git clone https://github.com/kierancyh/4-bit-Microprocessor.git
