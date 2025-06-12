@@ -81,7 +81,6 @@ Simulation → Run Simulation → Run Behavioral Simulation
 4-bit-Microprocessor/
 ├── README.md                         # Project overview and documentation
 ├── LICENSE                           # MIT License
-├── .gitignore                        # Git exclusion rules for Vivado, etc.
 ├── Waveform.png                      # Screenshot of simulation results
 ├── ISA.png                           # Instruction Set diagram
 ├── Overall System Architecture.png   # Datapath + Control Unit diagram
