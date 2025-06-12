@@ -33,7 +33,7 @@ The Overall System Architecture & Instruction Set Architecture (ISA) is shown be
 
 ## Testbech 
 This project includes a testbench to verify the Multiplication process:                
-**tb_Integrated_Top_Module** – Provides input stimuli, generates clock/reset signals, and observes internal signals such as the accumulator, ALU output, and control signals.
+**tb_Integrated_Top_Module** – Provides input stimuli, generates clock/reset signals, and observes internal signals such as the accumulator, ALU output, and control signals
 
 **Simulation Waveform**                                                                                                               
 Below is the behavioral simulation output of Shift-and-Add Multiplication of two 4-bit Unsigned Integers: 10 × 10 = 100
@@ -47,7 +47,7 @@ Below is the behavioral simulation output of Shift-and-Add Multiplication of two
 ![Waveform](Waveform.png)
 
 ## Quick Start Guide
-Follow these steps to clone, simulate, and (optionally) synthesize the project.
+Follow these steps to clone, simulate, and (optionally) synthesize the project
 
 ### 1. Clone the Repository
 git clone https://github.com/kierancyh/4-bit-Microprocessor.git
@@ -104,5 +104,5 @@ Simulation → Run Simulation → Run Behavioral Simulation
 ```
 
 ## License
-This project is released under the MIT License (or replace with your university's policy).
+This project is released under the MIT License
 
